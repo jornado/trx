@@ -67,10 +67,10 @@ class Workout:
 
     def have_drills(self):
         if self.is_primary_exercise():
-            print self.remaining_primary_drills
+            # print self.remaining_primary_drills
             return len(self.remaining_primary_drills) != 0
         else:
-            print self.remaining_secondary_drills
+            # print self.remaining_secondary_drills
             return len(self.remaining_secondary_drills) != 0
 
     def reset_drills(self):
