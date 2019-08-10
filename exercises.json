@@ -1,0 +1,46 @@
+{
+  "Arms": [
+    "High-mid Rows",
+    "Bicep Curls",
+    "Low Rows",
+    "Mid Rows",
+    "High Rows"
+  ],
+  "Back": [
+    "I-W Drills",
+    "L Drills",
+    "T Drills",
+    "X Drills",
+    "W Drills",
+    "I Drills"
+  ],
+  "Chest": [
+    "Atomic Crunch Press",
+    "Standing Press",
+    "Incline Press",
+    "Push Flies",
+    "Flat Press"
+  ],
+  "Core": [
+    "Plank",
+    "Butt Thrusts",
+    "Atomic Crunches",
+    "Mountain Climbers",
+    "Spider-Man Crunches",
+    "Side Plank Left"
+  ],
+  "Legs": [
+    "Reverse Lunges Left",
+    "Side Lunges Left",
+    "Squats",
+    "Hop Squats",
+    "Lunges Left"
+  ],
+  "Unused": [
+    "Scull Crushers",
+    "Hamstring Thrusts",
+    "Squat to Rows",
+    "Piston Squats",
+    "Skaters"
+  ]
+}
