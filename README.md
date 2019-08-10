@@ -4,3 +4,4 @@ CLI for running tabata TRX workouts. Runs a 3 cycle workout with 8 sets each cyc
 
 `python main.py`
 
+![Screenshot](https://github.com/poeks/trx/blob/master/screenshot.png?raw=true)
